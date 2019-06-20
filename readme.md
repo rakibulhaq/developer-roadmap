@@ -2,7 +2,7 @@
 
 ## 🚀 Introduction
 
-![](https://i.imgur.com/OZUOUtI.png)
+![](./images/intro-map.png)
 
 ## 👽 Back-end Roadmap
 
