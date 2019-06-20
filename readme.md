@@ -1,5 +1,3 @@
-![Web Developer Roadmap](https://i.imgur.com/oxsayps.png)
-
 > Roadmap to becoming a web developer (backend) in 2019
 
 ## 🚀 Introduction
